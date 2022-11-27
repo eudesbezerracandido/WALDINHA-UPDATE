@@ -8,3 +8,4 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Segue os anos de Wandinha (Wednesday Addams) como estudante, quando ela tenta dominar sua habilidade psíquica emergente, frustrar e resolver o mistério que envolveu seus pais. Emissora: Netflix • Episódios: 8 • Duração: 45 min.</info>
 </item>
+
